@@ -19,4 +19,5 @@ cara menjalankan aplikasinya cukup masuk ke file html dumbways.html lalu masukka
 Nomor 4:
 menggunakan bahasa Pemrograman Javascript, HTML, dan PHP.
 Silahkan cek Screenshotnya Database MySql nya
+saya juga membuat tabel html untuk produk dan importir
 
