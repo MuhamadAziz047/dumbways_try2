@@ -20,4 +20,12 @@ Nomor 4:
 menggunakan bahasa Pemrograman Javascript, HTML, dan PHP.
 Silahkan cek Screenshotnya Database MySql nya
 saya juga membuat tabel html untuk produk dan importir
-
+Silahkan teman-teman masuk ke file berikut ini "
+edit.php --> Untuk mengedit produk
+hapus.php --> Untuk menghapus produk
+index.php --> 
+input.php --> Untuk menambahkan produk
+input-aksi.php --> fungsi PHP untuk aksi dalam penambahakn produk
+koneksi.php --> menkoneksikan Database ke file PHP
+update.php --> fungsi PHP untuk aksi dalam update sebuah produk
+style.css --> CSS untuk mempercantik sebuah halaman
