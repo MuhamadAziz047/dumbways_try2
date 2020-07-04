@@ -13,6 +13,10 @@ cara menjalankan aplikasinya cukup masuk ke file html dumbways.html lalu masukka
 
 Nomor 3:
 menggunakan bahasa Pemrograman Javascript dan HTML.
+Stack forEach
+cara menjalankan aplikasinya cukup masuk ke file html dumbways.html lalu masukkan script nya di file html untuk nomor3.js lalu jalankan seperti biasa di Google Chrome 
 
 Nomor 4:
-menggunakan bahasa Pemrograman Javascript dan HTML.
+menggunakan bahasa Pemrograman Javascript, HTML, dan PHP.
+Silahkan cek Screenshotnya Database MySql nya
+
