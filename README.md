@@ -1,1 +1,15 @@
 # dumbways_try2
+stacks yang digunakan, software yang dibutuhkan,cara menjalankan aplikasi & hal yang perlu dijelaskan.
+Nomor 1:
+menggunakan bahasa Pemrograman Javascript dan HTML.
+Stack if else
+cara menjalankan aplikasinya cukup masuk ke file html dumbways.html lalu masukkan script nya di file html untuk nomor1.js lalu akan keluar generate kode unique sepeda brompton anda: masukkan aziz lalu akan keluar nomor kode unique
+
+Nomor 2:
+menggunakan bahasa Pemrograman Javascript dan HTML.
+
+Nomor 3:
+menggunakan bahasa Pemrograman Javascript dan HTML.
+
+Nomor 4:
+menggunakan bahasa Pemrograman Javascript dan HTML.
