@@ -7,6 +7,9 @@ cara menjalankan aplikasinya cukup masuk ke file html dumbways.html lalu masukka
 
 Nomor 2:
 menggunakan bahasa Pemrograman Javascript dan HTML.
+Stack for
+cara menjalankan aplikasinya cukup masuk ke file html dumbways.html lalu masukkan script nya di file html untuk nomor2.js lalu inspect elemen menggunakan google chrome masuk ke console makan akan terlihat hasilnya
+
 
 Nomor 3:
 menggunakan bahasa Pemrograman Javascript dan HTML.
